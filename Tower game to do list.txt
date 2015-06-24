@@ -1,0 +1,12 @@
+To do list:
+
+Allow for tower upgrades
+Create level select screen
+Allow towers to be built while paused
+Allow separate waves to be �called�
+New title screen
+Center screen in browser
+
+Known issues/bugs:
+
+After level complete, game breaks
